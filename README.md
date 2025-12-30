@@ -43,6 +43,7 @@ The crtcs of the other screen is specified as id 0 by default.
 
 crtc_id_dul = res->crtcs[0];
 conn_id_dul = res->connectors[0];
+
 If it is not displayed, modify it according to the actual situation.
 
 
